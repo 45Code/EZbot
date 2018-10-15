@@ -1,0 +1,2 @@
+# EZbot
+Hello world! :)
